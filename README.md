@@ -18,7 +18,6 @@ graph TD
     subgraph Data [Data & Storage / 資料存儲]
         Bank[Word Bank: JSON <br/> 單字庫]
         Store[Session Storage <br/> 成績暫存]
-        123
     end
 
     Bank --> Parser
